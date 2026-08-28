@@ -1,0 +1,21 @@
+1001,Laptop,Dell,Electronics,75000,10
+1002,Smartphone,Samsung,Electronics,55000,15
+1003,Headphones,Sony,Accessories,8000,25
+1004,Keyboard,Logitech,Accessories,3500,30
+1005,Monitor,HP,Electronics,22000,12
+1006,Mouse,Dell,Accessories,1500,40
+1007,Tablet,Lenovo,Electronics,30000,8
+1008,Printer,Canon,Electronics,18000,7
+1009,Router,TP-Link,Networking,2500,20
+1010,Webcam,Logitech,Accessories,4200,18
+1011,Smartwatch,Amazfit,Wearables,10000,14
+1012,Speaker,JBL,Audio,7000,16
+1013,Hard Drive,Seagate,Storage,6000,22
+1014,SSD,Samsung,Storage,9000,11
+1015,Charger,Anker,Accessories,2200,35
+1016,Power Bank,Mi,Accessories,2500,27
+1017,Graphics Card,NVIDIA,Components,45000,5
+1018,Motherboard,ASUS,Components,15000,9
+1019,RAM,Corsair,Components,7000,13
+1020,Cooling Fan,Cooler Master,Components,3000,19
+11,adk,kak,alsk,2,10
